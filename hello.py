@@ -1,1 +1,2 @@
-Welcome to the World
+print "Welcome to the World"
+print "Good Morning"
